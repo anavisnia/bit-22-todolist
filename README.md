@@ -9,7 +9,7 @@
 
 This project is for educational porpuses only.
 
-Site published at
+Site published at https://anavisnia.github.io/bit-22-todolist/
 
 Design: random
 
